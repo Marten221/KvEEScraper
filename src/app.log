@@ -1,4 +1,21 @@
-2024-11-22 20:02:58,366 - INFO - (datetime.datetime(2024, 11, 22, 20, 2, 58, 366413), 'Started scraping 27 listings.\n')
-2024-11-22 20:03:20,065 - INFO - (datetime.datetime(2024, 11, 22, 20, 3, 20, 65223), 'Finished scraping 27 listings.\n')
-2024-11-22 20:03:20,065 - INFO - Scrape nr: 1 was finished, yielding 27 new listings. Taking 0:00:21.698810
+2024-11-22 22:31:34,257 - INFO - Started scraping 15 listings.
+
+2024-11-22 22:31:35,035 - ERROR - An error occurred while fetching listing 3649992: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:35,779 - ERROR - An error occurred while fetching listing 3685717: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:36,471 - ERROR - An error occurred while fetching listing 3684033: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:37,055 - ERROR - An error occurred while fetching listing 3703806: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:37,733 - ERROR - An error occurred while fetching listing 3703789: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:38,536 - ERROR - An error occurred while fetching listing 3649811: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:39,214 - ERROR - An error occurred while fetching listing 3703812: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:40,119 - ERROR - An error occurred while fetching listing 3691214: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:40,938 - ERROR - An error occurred while fetching listing 3703798: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:41,686 - ERROR - An error occurred while fetching listing 3593456: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:42,377 - ERROR - An error occurred while fetching listing 3703805: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:43,702 - ERROR - An error occurred while fetching listing 3661990: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:44,563 - ERROR - An error occurred while fetching listing 3703813: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:45,228 - ERROR - An error occurred while fetching listing 3703679: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:45,926 - ERROR - An error occurred while fetching listing 3703796: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-11-22 22:31:45,927 - INFO - Finished scraping 15 listings.
+
+2024-11-22 22:31:45,928 - INFO - Scrape nr: 1 was finished, yielding 15 new listings. Taking 0:00:11.670836
 
