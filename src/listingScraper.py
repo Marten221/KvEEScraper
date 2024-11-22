@@ -1,6 +1,3 @@
-from random import randint
-from time import sleep
-
 from bs4 import BeautifulSoup
 
 import scraperUtils

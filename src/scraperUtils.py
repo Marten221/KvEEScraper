@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
 
-def writeIds(data_object_ids):
-    with open("flat-ids.csv", mode="a", newline='', encoding='UTF-8') as file:
+def writeIds(data_object_ids, file_name):
+    with open(f"../data/{file_name}", mode="a", newline='', encoding='UTF-8') as file:
         file.write(",".join(data_object_ids))
         file.write(",")
     print("Data saved to flat-ids.csv")
@@ -14,7 +14,7 @@ def writeIds(data_object_ids):
 # id, maakond, linn, linnaosa, pind, tube, magamistube, korrus, korruseid, ehitusaasta, seisukord, energiamärgis, hind
 fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamistube", "korrus", "korruseid", "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
 def writeData(dictionary):
-    with open("listings_data.csv", mode="a", newline='', encoding='UTF-8') as file:
+    with open("../data/listings_data.csv", mode="a", newline='', encoding='UTF-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writerow(dictionary)
 
@@ -28,7 +28,7 @@ def getIds(html):
 
 
 def readIds():
-    with open("flat-ids.csv", mode="r") as file:
+    with open("../data/flat-ids.csv", mode="r") as file:
         line = file.readline()
     return line.split(",")
 
