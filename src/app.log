@@ -1,0 +1,4 @@
+2024-11-22 20:02:58,366 - INFO - (datetime.datetime(2024, 11, 22, 20, 2, 58, 366413), 'Started scraping 27 listings.\n')
+2024-11-22 20:03:20,065 - INFO - (datetime.datetime(2024, 11, 22, 20, 3, 20, 65223), 'Finished scraping 27 listings.\n')
+2024-11-22 20:03:20,065 - INFO - Scrape nr: 1 was finished, yielding 27 new listings. Taking 0:00:21.698810
+

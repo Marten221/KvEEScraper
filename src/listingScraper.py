@@ -3,6 +3,7 @@ import time
 from bs4 import BeautifulSoup
 
 import scraperUtils
+from logger import logger
 
 
 def scrapeListings(driver, ids):
@@ -29,7 +30,10 @@ def scrapeListings(driver, ids):
 
             scraperUtils.writeData(dictionary, "../data/listings_data.csv")
         except Exception as e:
-            print(f"An error occurred while fetching listing {ids[i]}: {e}")
+            string = f"An error occurred while fetching listing {ids[i]}: {e}"
+            print(string)
+            logger.error(string)
             continue
 
     print(f"{len(ids)} listings scraped in:", start_time - time.time())
+

@@ -1,8 +1,8 @@
 import csv
+from random import randint
+from time import sleep
 
 import undetected_chromedriver as uc
-from selenium.webdriver.chrome.options import Options
-from bs4 import BeautifulSoup
 
 
 def appendIds(data_object_ids, location):
@@ -41,10 +41,20 @@ def readIds(location):
 
 
 def getDriver():
-    options = Options()
+    options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
     options.add_argument(
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36")
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-infobars")
+
+    # Disable images, fonts, stylesheets to save bandwith
+    prefs = {"profile.managed_default_content_settings.images": 2,
+             "profile.managed_default_content_settings.stylesheets": 2,
+             "profile.managed_default_content_settings.fonts": 2,
+             }
+    options.add_experimental_option("prefs", prefs)
+
     return uc.Chrome(options=options)
 
 
@@ -106,3 +116,14 @@ def findListingsAmount(soup):
     amount_elements = span.text.strip().split(" ")
     amount = amount_elements[-1].split('\u00A0')
     return int(''.join(amount))
+
+
+def sleep15_24hWithCountdown():
+    sleep_time = randint(15 , 24 ) # TODO: Korruta 3600-ga
+    while sleep_time > 0:
+        hours, remainder = divmod(sleep_time, 3600)
+        minutes, seconds = divmod(remainder, 60)
+        print(f"\rTime left: {hours:02d}:{minutes:02d}:{seconds:02d}", flush=True, end='')
+        sleep(1)
+        sleep_time -= 1
+    print("\nDone sleeping!")
