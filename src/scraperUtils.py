@@ -5,30 +5,37 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
 
-def writeIds(data_object_ids, file_name):
-    with open(f"../data/{file_name}", mode="a", newline='', encoding='UTF-8') as file:
+def appendIds(data_object_ids, location):
+    with open(location, mode="a", newline='', encoding='UTF-8') as file:
         file.write(",".join(data_object_ids))
         file.write(",")
-    print("Data saved to flat-ids.csv")
+    print(f"{len(data_object_ids)} Ids appended to:", location, "\n")
+
+
+def clearFile(location):
+    with open(location, 'w') as file:
+        pass
+    print(location, "cleared")
+
 
 # id, maakond, linn, linnaosa, pind, tube, magamistube, korrus, korruseid, ehitusaasta, seisukord, energiamärgis, hind
 fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamistube", "korrus", "korruseid", "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
-def writeData(dictionary):
-    with open("../data/listings_data.csv", mode="a", newline='', encoding='UTF-8') as file:
+def writeData(dictionary, location):
+    with open(location, mode="a", newline='', encoding='UTF-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writerow(dictionary)
+    print("1 row of data appended to:", location, "\n")
 
 
-def getIds(html):
-    soup = BeautifulSoup(html, 'html.parser')
+def getIds(soup):
     elements = soup.find_all(attrs={"data-object-id": True})
     data_object_ids = [element['data-object-id'] for element in elements]
 
     return data_object_ids
 
 
-def readIds():
-    with open("../data/flat-ids.csv", mode="r") as file:
+def readIds(location):
+    with open(location, mode="r") as file:
         line = file.readline()
     return line.split(",")
 
@@ -93,3 +100,9 @@ def cleanDictionary(dictionary):
 
     return filtered_dictionary
 
+
+def findListingsAmount(soup):
+    span = soup.find('span', class_='large stronger')
+    amount_elements = span.text.strip().split(" ")
+    amount = amount_elements[-1].split('\u00A0')
+    return int(''.join(amount))
