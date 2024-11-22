@@ -3,7 +3,7 @@ from random import randint
 from time import sleep
 
 import undetected_chromedriver as uc
-
+import subprocess
 
 def appendIds(data_object_ids, location):
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
@@ -127,3 +127,12 @@ def sleep15_24hWithCountdown():
         sleep(1)
         sleep_time -= 1
     print("\nDone sleeping!")
+
+
+def git_commit_and_push(message):
+    try:
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", f"Automated commit \n{message}"], check=True)
+        subprocess.run(["git", "push"], check=True)
+    except Exception as e:
+        print(f"An error occurred: {e}")
