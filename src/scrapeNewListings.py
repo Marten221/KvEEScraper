@@ -41,6 +41,5 @@ while True:
 
     # Sleep
     scraperUtils.sleep15_24hWithCountdown()
-    i += 1
 
 driver.quit()
