@@ -5,6 +5,7 @@ from time import sleep
 import undetected_chromedriver as uc
 import subprocess
 
+
 def appendIds(data_object_ids, location):
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
         file.write(",".join(data_object_ids))
@@ -19,7 +20,10 @@ def clearFile(location):
 
 
 # id, maakond, linn, linnaosa, pind, tube, magamistube, korrus, korruseid, ehitusaasta, seisukord, energiamärgis, hind
-fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamistube", "korrus", "korruseid", "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
+fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamistube", "korrus", "korruseid",
+              "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
+
+
 def writeData(dictionary, location):
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -93,6 +97,8 @@ def getLocation(soup):
 
 
 valid_keys = fieldnames
+
+
 def cleanDictionary(dictionary):
     # ÜLDPIND
     pind = dictionary.get('üldpind')  # non-breaking space
@@ -119,7 +125,7 @@ def findListingsAmount(soup):
 
 
 def sleep15_24hWithCountdown():
-    sleep_time = randint(15 , 24 ) # TODO: Korruta 3600-ga
+    sleep_time = randint(15 * 3600, 24 * 3600)  # TODO: Korruta 3600-ga
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)
         minutes, seconds = divmod(remainder, 60)
