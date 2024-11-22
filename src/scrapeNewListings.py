@@ -33,12 +33,15 @@ while True:
     logger.info(string)
 
     print("Scrape finished in:", scrape_end - scrape_start)
-    logger.info(
-        f"Scrape nr: {scrape_nr} was finished, yielding {len(only_new_listings)} new listings. Taking {scrape_end - scrape_start}\n")
+    scrape_finish_message = f"Scrape nr: {scrape_nr} was finished, yielding {len(only_new_listings)} new listings. Taking {scrape_end - scrape_start}\n"
+    logger.info(scrape_finish_message)
 
     scraperUtils.appendIds(only_new_listings,
                            "../data/flat-ids.csv")  # Append freshly scraped listings ids to teh scraped listings file
 
+
+    #Git commit and push
+    scraperUtils.git_commit_and_push(scrape_finish_message)
     # Sleep
     scraperUtils.sleep15_24hWithCountdown()
 
