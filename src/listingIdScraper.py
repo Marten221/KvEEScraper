@@ -41,4 +41,4 @@ def scrapeListingIds(driver):
             logger.error(string)
             continue
 
-    logger.info(stop, "listing Ids scraped and saved in:", datetime.datetime.now() - scrape_start)
+    logger.info(f"{stop}, listing Ids scraped and saved in: {datetime.datetime.now() - scrape_start}")
