@@ -125,7 +125,7 @@ def findListingsAmount(soup):
 
 
 def sleep15_24hWithCountdown():
-    sleep_time = randint(15 * 3600, 24 * 3600)  # TODO: Korruta 3600-ga
+    sleep_time = randint(8 * 3600, 10 * 3600)  # TODO: Korruta 3600-ga
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)
         minutes, seconds = divmod(remainder, 60)
