@@ -11,8 +11,8 @@ scrape_nr = 1
 # Vb proovi andmebaasiga ühendada
 #commitib ainult stc kausta. ja loggeri viimased read eu tule kaasa. Ide crashib kui telost sulgen arvutu.Mingi jama connectioni vahetamisega? peale ugat tsüklit võib driveri sulgeda
 
-driver = scraperUtils.getDriver()
 while True:
+    driver = scraperUtils.getDriver()
     # Populate flat-ids2.csv
     listingIdScraper.scrapeListingIds(driver)
 
@@ -22,14 +22,14 @@ while True:
     print("Amount of new listings found:", len(only_new_listings), "\n")
 
     scrape_start = datetime.datetime.now()
-    string = f"Started scraping {len(only_new_listings)} listings.\n"
+    string = f"Started scraping {len(only_new_listings)} listings."
     print(scrape_start, string)
     logger.info(string)
 
     listingScraper.scrapeListings(driver, only_new_listings)  # Start scraping
 
     scrape_end = datetime.datetime.now()
-    string = f"Finished scraping {len(only_new_listings)} listings.\n"
+    string = f"Finished scraping {len(only_new_listings)} listings."
     print(scrape_end, string)
     logger.info(string)
 
@@ -40,10 +40,9 @@ while True:
     scraperUtils.appendIds(only_new_listings,
                            "../data/flat-ids.csv")  # Append freshly scraped listings ids to the scraped listings file
 
-
+    driver.quit()
     #Git commit and push
     scraperUtils.git_commit_and_push(scrape_finish_message)
     # Sleep
     scraperUtils.sleep15_24hWithCountdown()
 
-driver.quit()
