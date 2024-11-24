@@ -137,7 +137,7 @@ def sleep15_24hWithCountdown():
 
 def git_commit_and_push(message):
     try:
-        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "add", ".."], check=True)
         subprocess.run(["git", "commit", "-m", f"Automated commit \n{message}"], check=True)
         subprocess.run(["git", "push"], check=True)
     except Exception as e:

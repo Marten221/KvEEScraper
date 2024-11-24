@@ -9,6 +9,7 @@ scrape_nr = 1
 # Logimine
 # try catch, et kõik kokku ei jookseks ühe postituse pärast #Done
 # Vb proovi andmebaasiga ühendada
+#commitib ainult stc kausta. ja loggeri viimased read eu tule kaasa. Ide crashib kui telost sulgen arvutu.Mingi jama connectioni vahetamisega? peale ugat tsüklit võib driveri sulgeda
 
 driver = scraperUtils.getDriver()
 while True:
@@ -37,7 +38,7 @@ while True:
     logger.info(scrape_finish_message)
 
     scraperUtils.appendIds(only_new_listings,
-                           "../data/flat-ids.csv")  # Append freshly scraped listings ids to teh scraped listings file
+                           "../data/flat-ids.csv")  # Append freshly scraped listings ids to the scraped listings file
 
 
     #Git commit and push
