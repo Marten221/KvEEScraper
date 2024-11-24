@@ -4,9 +4,12 @@ from time import sleep
 
 import undetected_chromedriver as uc
 import subprocess
+import os
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
 def appendIds(data_object_ids, location):
+    location = os.path.join(script_dir, location)
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
         file.write(",".join(data_object_ids))
         file.write(",")
@@ -14,6 +17,7 @@ def appendIds(data_object_ids, location):
 
 
 def clearFile(location):
+    location = os.path.join(script_dir, location)
     with open(location, 'w') as file:
         pass
     print(location, "cleared")
@@ -25,6 +29,7 @@ fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamist
 
 
 def writeData(dictionary, location):
+    location = os.path.join(script_dir, location)
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writerow(dictionary)
@@ -39,6 +44,7 @@ def getIds(soup):
 
 
 def readIds(location):
+    location = os.path.join(script_dir, location)
     with open(location, mode="r") as file:
         line = file.readline()
     return line.split(",")
@@ -125,7 +131,7 @@ def findListingsAmount(soup):
 
 
 def sleepWithCountdown():
-    sleep_time = randint(6 * 3600, 8 * 3600)  # TODO: Korruta 3600-ga
+    sleep_time = randint(6 * 3600, 8 * 3600)
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)
         minutes, seconds = divmod(remainder, 60)

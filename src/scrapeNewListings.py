@@ -1,16 +1,16 @@
 import datetime
 
-import scraperUtils
-from logger import logger
-from src import listingIdScraper
-from src import listingScraper
+from . import scraperUtils
+from .logger import logger
+from . import listingIdScraper
+from . import listingScraper
 
 scrape_nr = 1
 # Logimine
 # try catch, et kõik kokku ei jookseks ühe postituse pärast #Done
 # Vb proovi andmebaasiga ühendada
 #commitib ainult stc kausta. ja loggeri viimased read eu tule kaasa. Ide crashib kui telost sulgen arvutu.Mingi jama connectioni vahetamisega? peale ugat tsüklit võib driveri sulgeda
-scraperUtils.sleepWithCountdown()
+#scraperUtils.sleepWithCountdown()
 
 while True:
     driver = scraperUtils.getDriver()
