@@ -10,6 +10,7 @@ scrape_nr = 1
 # try catch, et kõik kokku ei jookseks ühe postituse pärast #Done
 # Vb proovi andmebaasiga ühendada
 #commitib ainult stc kausta. ja loggeri viimased read eu tule kaasa. Ide crashib kui telost sulgen arvutu.Mingi jama connectioni vahetamisega? peale ugat tsüklit võib driveri sulgeda
+scraperUtils.sleepWithCountdown()
 
 while True:
     driver = scraperUtils.getDriver()
@@ -44,5 +45,5 @@ while True:
     #Git commit and push
     scraperUtils.git_commit_and_push(scrape_finish_message)
     # Sleep
-    scraperUtils.sleep15_24hWithCountdown()
+    scraperUtils.sleepWithCountdown()
 
