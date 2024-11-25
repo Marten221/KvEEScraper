@@ -131,7 +131,7 @@ def findListingsAmount(soup):
 
 
 def sleepWithCountdown():
-    sleep_time = randint(6 * 3600, 8 * 3600)
+    sleep_time = randint(6 * 10, 8 * 10) #TODO CHANGE 10 - 3600
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)
         minutes, seconds = divmod(remainder, 60)
