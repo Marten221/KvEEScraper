@@ -28,3 +28,8 @@
 2024-11-25 15:33:21,581 - INFO - The script was ran
 2024-11-25 15:46:35,240 - INFO - The script was ran
 2024-11-25 15:49:19,211 - INFO - The script was ran
+2024-11-25 18:45:14,239 - INFO - 10314, listing Ids scraped and saved in: 0:10:48.187010
+2024-11-25 18:45:14,260 - INFO - Started scraping 87 listings.
+2024-11-25 18:48:01,887 - INFO - Finished scraping 87 listings.
+2024-11-25 18:48:01,888 - INFO - Scrape was finished, yielding 87 new listings. Taking 0:02:47.627008
+
