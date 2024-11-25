@@ -8,3 +8,8 @@
 2024-11-24 17:39:40,916 - INFO - Finished scraping 0 listings.
 2024-11-24 17:39:40,916 - INFO - Scrape nr: 1 was finished, yielding 0 new listings. Taking 0:00:00.000897
 
+2024-11-24 23:50:45,030 - INFO - 10334, listing Ids scraped and saved in: 0:03:41.540805
+2024-11-24 23:50:45,036 - INFO - Started scraping 14 listings.
+2024-11-24 23:50:54,508 - INFO - Finished scraping 14 listings.
+2024-11-24 23:50:54,509 - INFO - Scrape nr: 1 was finished, yielding 14 new listings. Taking 0:00:09.472671
+
