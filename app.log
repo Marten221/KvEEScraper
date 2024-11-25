@@ -33,3 +33,13 @@
 2024-11-25 18:48:01,887 - INFO - Finished scraping 87 listings.
 2024-11-25 18:48:01,888 - INFO - Scrape was finished, yielding 87 new listings. Taking 0:02:47.627008
 
+2024-11-25 20:45:33,444 - INFO - 10316, listing Ids scraped and saved in: 0:07:30.719784
+2024-11-25 20:45:33,475 - INFO - Started scraping 23 listings.
+2024-11-25 20:46:15,083 - INFO - Finished scraping 23 listings.
+2024-11-25 20:46:15,084 - INFO - Scrape was finished, yielding 23 new listings. Taking 0:00:41.608096
+
+2024-11-26 01:44:24,257 - INFO - 10286, listing Ids scraped and saved in: 0:08:36.463219
+2024-11-26 01:44:24,279 - INFO - Started scraping 17 listings.
+2024-11-26 01:44:50,852 - INFO - Finished scraping 17 listings.
+2024-11-26 01:44:50,854 - INFO - Scrape was finished, yielding 17 new listings. Taking 0:00:26.573798
+
