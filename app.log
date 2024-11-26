@@ -53,3 +53,9 @@
 2024-11-26 15:55:12,740 - INFO - Finished scraping 12 listings.
 2024-11-26 15:55:12,742 - INFO - Scrape was finished, yielding 12 new listings. Taking 0:00:26.758919
 
+2024-11-27 00:39:26,091 - ERROR - An error occurred while fetching ids (start/stop):(500/10326): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-11-27 00:52:24,284 - INFO - 10326, listing Ids scraped and saved in: 0:09:35.716934
+2024-11-27 00:52:24,310 - INFO - Started scraping 42 listings.
+2024-11-27 00:53:46,291 - INFO - Finished scraping 42 listings.
+2024-11-27 00:53:46,296 - INFO - Scrape was finished, yielding 42 new listings. Taking 0:01:21.976651
+
