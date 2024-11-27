@@ -64,3 +64,5158 @@
 2024-11-27 12:11:31,185 - INFO - Finished scraping 36 listings.
 2024-11-27 12:11:31,186 - INFO - Scrape was finished, yielding 36 new listings. Taking 0:00:27.478587
 
+2024-11-27 23:11:22,851 - ERROR - An error occurred while fetching ids (start/stop):(50/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,878 - ERROR - An error occurred while fetching ids (start/stop):(100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,882 - ERROR - An error occurred while fetching ids (start/stop):(150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,891 - ERROR - An error occurred while fetching ids (start/stop):(200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,895 - ERROR - An error occurred while fetching ids (start/stop):(250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,897 - ERROR - An error occurred while fetching ids (start/stop):(300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,899 - ERROR - An error occurred while fetching ids (start/stop):(350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,901 - ERROR - An error occurred while fetching ids (start/stop):(400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,903 - ERROR - An error occurred while fetching ids (start/stop):(450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,907 - ERROR - An error occurred while fetching ids (start/stop):(500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,911 - ERROR - An error occurred while fetching ids (start/stop):(550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,912 - ERROR - An error occurred while fetching ids (start/stop):(600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,914 - ERROR - An error occurred while fetching ids (start/stop):(650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,915 - ERROR - An error occurred while fetching ids (start/stop):(700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,918 - ERROR - An error occurred while fetching ids (start/stop):(750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,919 - ERROR - An error occurred while fetching ids (start/stop):(800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,921 - ERROR - An error occurred while fetching ids (start/stop):(850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,923 - ERROR - An error occurred while fetching ids (start/stop):(900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,925 - ERROR - An error occurred while fetching ids (start/stop):(950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,930 - ERROR - An error occurred while fetching ids (start/stop):(1000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,931 - ERROR - An error occurred while fetching ids (start/stop):(1050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,933 - ERROR - An error occurred while fetching ids (start/stop):(1100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,934 - ERROR - An error occurred while fetching ids (start/stop):(1150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,936 - ERROR - An error occurred while fetching ids (start/stop):(1200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,937 - ERROR - An error occurred while fetching ids (start/stop):(1250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,938 - ERROR - An error occurred while fetching ids (start/stop):(1300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,942 - ERROR - An error occurred while fetching ids (start/stop):(1350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,943 - ERROR - An error occurred while fetching ids (start/stop):(1400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,945 - ERROR - An error occurred while fetching ids (start/stop):(1450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,946 - ERROR - An error occurred while fetching ids (start/stop):(1500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,948 - ERROR - An error occurred while fetching ids (start/stop):(1550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,950 - ERROR - An error occurred while fetching ids (start/stop):(1600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,951 - ERROR - An error occurred while fetching ids (start/stop):(1650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,953 - ERROR - An error occurred while fetching ids (start/stop):(1700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,954 - ERROR - An error occurred while fetching ids (start/stop):(1750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,956 - ERROR - An error occurred while fetching ids (start/stop):(1800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,960 - ERROR - An error occurred while fetching ids (start/stop):(1850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,963 - ERROR - An error occurred while fetching ids (start/stop):(1900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,965 - ERROR - An error occurred while fetching ids (start/stop):(1950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,968 - ERROR - An error occurred while fetching ids (start/stop):(2000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,969 - ERROR - An error occurred while fetching ids (start/stop):(2050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,971 - ERROR - An error occurred while fetching ids (start/stop):(2100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,974 - ERROR - An error occurred while fetching ids (start/stop):(2150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,976 - ERROR - An error occurred while fetching ids (start/stop):(2200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,978 - ERROR - An error occurred while fetching ids (start/stop):(2250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,980 - ERROR - An error occurred while fetching ids (start/stop):(2300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,982 - ERROR - An error occurred while fetching ids (start/stop):(2350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,984 - ERROR - An error occurred while fetching ids (start/stop):(2400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,986 - ERROR - An error occurred while fetching ids (start/stop):(2450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,991 - ERROR - An error occurred while fetching ids (start/stop):(2500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,993 - ERROR - An error occurred while fetching ids (start/stop):(2550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,995 - ERROR - An error occurred while fetching ids (start/stop):(2600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,997 - ERROR - An error occurred while fetching ids (start/stop):(2650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:22,999 - ERROR - An error occurred while fetching ids (start/stop):(2700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,001 - ERROR - An error occurred while fetching ids (start/stop):(2750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,003 - ERROR - An error occurred while fetching ids (start/stop):(2800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,008 - ERROR - An error occurred while fetching ids (start/stop):(2850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,010 - ERROR - An error occurred while fetching ids (start/stop):(2900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,013 - ERROR - An error occurred while fetching ids (start/stop):(2950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,015 - ERROR - An error occurred while fetching ids (start/stop):(3000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,017 - ERROR - An error occurred while fetching ids (start/stop):(3050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,018 - ERROR - An error occurred while fetching ids (start/stop):(3100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,025 - ERROR - An error occurred while fetching ids (start/stop):(3150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,028 - ERROR - An error occurred while fetching ids (start/stop):(3200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,030 - ERROR - An error occurred while fetching ids (start/stop):(3250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,033 - ERROR - An error occurred while fetching ids (start/stop):(3300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,034 - ERROR - An error occurred while fetching ids (start/stop):(3350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,039 - ERROR - An error occurred while fetching ids (start/stop):(3400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,041 - ERROR - An error occurred while fetching ids (start/stop):(3450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,043 - ERROR - An error occurred while fetching ids (start/stop):(3500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,045 - ERROR - An error occurred while fetching ids (start/stop):(3550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,047 - ERROR - An error occurred while fetching ids (start/stop):(3600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,049 - ERROR - An error occurred while fetching ids (start/stop):(3650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,054 - ERROR - An error occurred while fetching ids (start/stop):(3700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,057 - ERROR - An error occurred while fetching ids (start/stop):(3750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,059 - ERROR - An error occurred while fetching ids (start/stop):(3800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,061 - ERROR - An error occurred while fetching ids (start/stop):(3850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,062 - ERROR - An error occurred while fetching ids (start/stop):(3900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,064 - ERROR - An error occurred while fetching ids (start/stop):(3950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,066 - ERROR - An error occurred while fetching ids (start/stop):(4000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,069 - ERROR - An error occurred while fetching ids (start/stop):(4050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,071 - ERROR - An error occurred while fetching ids (start/stop):(4100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,074 - ERROR - An error occurred while fetching ids (start/stop):(4150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,076 - ERROR - An error occurred while fetching ids (start/stop):(4200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,078 - ERROR - An error occurred while fetching ids (start/stop):(4250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,080 - ERROR - An error occurred while fetching ids (start/stop):(4300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,082 - ERROR - An error occurred while fetching ids (start/stop):(4350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,086 - ERROR - An error occurred while fetching ids (start/stop):(4400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,088 - ERROR - An error occurred while fetching ids (start/stop):(4450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,090 - ERROR - An error occurred while fetching ids (start/stop):(4500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,091 - ERROR - An error occurred while fetching ids (start/stop):(4550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,093 - ERROR - An error occurred while fetching ids (start/stop):(4600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,095 - ERROR - An error occurred while fetching ids (start/stop):(4650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,097 - ERROR - An error occurred while fetching ids (start/stop):(4700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,102 - ERROR - An error occurred while fetching ids (start/stop):(4750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,104 - ERROR - An error occurred while fetching ids (start/stop):(4800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,107 - ERROR - An error occurred while fetching ids (start/stop):(4850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,109 - ERROR - An error occurred while fetching ids (start/stop):(4900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,110 - ERROR - An error occurred while fetching ids (start/stop):(4950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,112 - ERROR - An error occurred while fetching ids (start/stop):(5000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,113 - ERROR - An error occurred while fetching ids (start/stop):(5050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,118 - ERROR - An error occurred while fetching ids (start/stop):(5100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,121 - ERROR - An error occurred while fetching ids (start/stop):(5150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,123 - ERROR - An error occurred while fetching ids (start/stop):(5200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,125 - ERROR - An error occurred while fetching ids (start/stop):(5250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,126 - ERROR - An error occurred while fetching ids (start/stop):(5300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,128 - ERROR - An error occurred while fetching ids (start/stop):(5350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,132 - ERROR - An error occurred while fetching ids (start/stop):(5400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,133 - ERROR - An error occurred while fetching ids (start/stop):(5450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,135 - ERROR - An error occurred while fetching ids (start/stop):(5500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,137 - ERROR - An error occurred while fetching ids (start/stop):(5550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,138 - ERROR - An error occurred while fetching ids (start/stop):(5600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,141 - ERROR - An error occurred while fetching ids (start/stop):(5650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,143 - ERROR - An error occurred while fetching ids (start/stop):(5700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,144 - ERROR - An error occurred while fetching ids (start/stop):(5750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,148 - ERROR - An error occurred while fetching ids (start/stop):(5800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,150 - ERROR - An error occurred while fetching ids (start/stop):(5850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,151 - ERROR - An error occurred while fetching ids (start/stop):(5900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,153 - ERROR - An error occurred while fetching ids (start/stop):(5950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,154 - ERROR - An error occurred while fetching ids (start/stop):(6000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,155 - ERROR - An error occurred while fetching ids (start/stop):(6050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,157 - ERROR - An error occurred while fetching ids (start/stop):(6100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,158 - ERROR - An error occurred while fetching ids (start/stop):(6150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,160 - ERROR - An error occurred while fetching ids (start/stop):(6200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,161 - ERROR - An error occurred while fetching ids (start/stop):(6250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,164 - ERROR - An error occurred while fetching ids (start/stop):(6300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,166 - ERROR - An error occurred while fetching ids (start/stop):(6350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,168 - ERROR - An error occurred while fetching ids (start/stop):(6400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,169 - ERROR - An error occurred while fetching ids (start/stop):(6450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,171 - ERROR - An error occurred while fetching ids (start/stop):(6500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,172 - ERROR - An error occurred while fetching ids (start/stop):(6550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,173 - ERROR - An error occurred while fetching ids (start/stop):(6600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,175 - ERROR - An error occurred while fetching ids (start/stop):(6650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,176 - ERROR - An error occurred while fetching ids (start/stop):(6700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,180 - ERROR - An error occurred while fetching ids (start/stop):(6750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,182 - ERROR - An error occurred while fetching ids (start/stop):(6800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,184 - ERROR - An error occurred while fetching ids (start/stop):(6850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,186 - ERROR - An error occurred while fetching ids (start/stop):(6900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,187 - ERROR - An error occurred while fetching ids (start/stop):(6950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,189 - ERROR - An error occurred while fetching ids (start/stop):(7000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,190 - ERROR - An error occurred while fetching ids (start/stop):(7050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,192 - ERROR - An error occurred while fetching ids (start/stop):(7100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,195 - ERROR - An error occurred while fetching ids (start/stop):(7150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,197 - ERROR - An error occurred while fetching ids (start/stop):(7200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,198 - ERROR - An error occurred while fetching ids (start/stop):(7250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,200 - ERROR - An error occurred while fetching ids (start/stop):(7300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,201 - ERROR - An error occurred while fetching ids (start/stop):(7350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,203 - ERROR - An error occurred while fetching ids (start/stop):(7400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,204 - ERROR - An error occurred while fetching ids (start/stop):(7450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,206 - ERROR - An error occurred while fetching ids (start/stop):(7500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,207 - ERROR - An error occurred while fetching ids (start/stop):(7550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,208 - ERROR - An error occurred while fetching ids (start/stop):(7600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,213 - ERROR - An error occurred while fetching ids (start/stop):(7650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,215 - ERROR - An error occurred while fetching ids (start/stop):(7700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,217 - ERROR - An error occurred while fetching ids (start/stop):(7750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,219 - ERROR - An error occurred while fetching ids (start/stop):(7800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,220 - ERROR - An error occurred while fetching ids (start/stop):(7850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,222 - ERROR - An error occurred while fetching ids (start/stop):(7900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,223 - ERROR - An error occurred while fetching ids (start/stop):(7950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,227 - ERROR - An error occurred while fetching ids (start/stop):(8000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,230 - ERROR - An error occurred while fetching ids (start/stop):(8050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,232 - ERROR - An error occurred while fetching ids (start/stop):(8100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,235 - ERROR - An error occurred while fetching ids (start/stop):(8150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,236 - ERROR - An error occurred while fetching ids (start/stop):(8200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,238 - ERROR - An error occurred while fetching ids (start/stop):(8250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,239 - ERROR - An error occurred while fetching ids (start/stop):(8300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,243 - ERROR - An error occurred while fetching ids (start/stop):(8350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,245 - ERROR - An error occurred while fetching ids (start/stop):(8400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,246 - ERROR - An error occurred while fetching ids (start/stop):(8450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,248 - ERROR - An error occurred while fetching ids (start/stop):(8500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,249 - ERROR - An error occurred while fetching ids (start/stop):(8550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,251 - ERROR - An error occurred while fetching ids (start/stop):(8600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,252 - ERROR - An error occurred while fetching ids (start/stop):(8650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,253 - ERROR - An error occurred while fetching ids (start/stop):(8700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,255 - ERROR - An error occurred while fetching ids (start/stop):(8750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,258 - ERROR - An error occurred while fetching ids (start/stop):(8800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,260 - ERROR - An error occurred while fetching ids (start/stop):(8850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,261 - ERROR - An error occurred while fetching ids (start/stop):(8900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,263 - ERROR - An error occurred while fetching ids (start/stop):(8950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,265 - ERROR - An error occurred while fetching ids (start/stop):(9000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,266 - ERROR - An error occurred while fetching ids (start/stop):(9050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,267 - ERROR - An error occurred while fetching ids (start/stop):(9100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,269 - ERROR - An error occurred while fetching ids (start/stop):(9150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,270 - ERROR - An error occurred while fetching ids (start/stop):(9200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,272 - ERROR - An error occurred while fetching ids (start/stop):(9250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,277 - ERROR - An error occurred while fetching ids (start/stop):(9300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,278 - ERROR - An error occurred while fetching ids (start/stop):(9350/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,280 - ERROR - An error occurred while fetching ids (start/stop):(9400/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,281 - ERROR - An error occurred while fetching ids (start/stop):(9450/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,282 - ERROR - An error occurred while fetching ids (start/stop):(9500/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,284 - ERROR - An error occurred while fetching ids (start/stop):(9550/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,285 - ERROR - An error occurred while fetching ids (start/stop):(9600/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,287 - ERROR - An error occurred while fetching ids (start/stop):(9650/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,290 - ERROR - An error occurred while fetching ids (start/stop):(9700/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,292 - ERROR - An error occurred while fetching ids (start/stop):(9750/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,294 - ERROR - An error occurred while fetching ids (start/stop):(9800/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,295 - ERROR - An error occurred while fetching ids (start/stop):(9850/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,297 - ERROR - An error occurred while fetching ids (start/stop):(9900/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,298 - ERROR - An error occurred while fetching ids (start/stop):(9950/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,300 - ERROR - An error occurred while fetching ids (start/stop):(10000/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,301 - ERROR - An error occurred while fetching ids (start/stop):(10050/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,302 - ERROR - An error occurred while fetching ids (start/stop):(10100/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,306 - ERROR - An error occurred while fetching ids (start/stop):(10150/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,308 - ERROR - An error occurred while fetching ids (start/stop):(10200/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,310 - ERROR - An error occurred while fetching ids (start/stop):(10250/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,312 - ERROR - An error occurred while fetching ids (start/stop):(10300/10324): Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x005533E3+25059]
+	(No symbol) [0x004DCDE4]
+	(No symbol) [0x003BBEC3]
+	(No symbol) [0x0039D93B]
+	(No symbol) [0x0042800F]
+	(No symbol) [0x0043AE49]
+	(No symbol) [0x00421C96]
+	(No symbol) [0x003F3FAC]
+	(No symbol) [0x003F4F3D]
+	GetHandleVerifier [0x00845543+3113795]
+	GetHandleVerifier [0x0085A20A+3198986]
+	GetHandleVerifier [0x008529E2+3168226]
+	GetHandleVerifier [0x005F3250+680016]
+	(No symbol) [0x004E572D]
+	(No symbol) [0x004E29D8]
+	(No symbol) [0x004E2B75]
+	(No symbol) [0x004D57D0]
+	BaseThreadInitThunk [0x772B7BA9+25]
+	RtlInitializeExceptionChain [0x77AAC0CB+107]
+	RtlClearBits [0x77AAC04F+191]
+
+2024-11-27 23:11:23,312 - INFO - 10324, listing Ids scraped and saved in: 0:00:01.842244
+2024-11-27 23:11:23,316 - INFO - Started scraping 0 listings.
+2024-11-27 23:11:23,317 - INFO - Finished scraping 0 listings.
+2024-11-27 23:11:23,317 - INFO - Scrape was finished, yielding 0 new listings. Taking 0:00:00.000709
+
