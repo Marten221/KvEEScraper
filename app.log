@@ -13601,3 +13601,10 @@ Stacktrace:
 2024-11-27 23:38:55,256 - INFO - Finished scraping 0 listings.
 2024-11-27 23:38:55,256 - INFO - Scrape was finished, yielding 0 new listings. Taking 0:00:00.000420
 
+2024-11-27 23:44:55,214 - INFO - 10322, listing Ids scraped and saved in: 0:03:44.092873
+2024-11-27 23:44:55,224 - INFO - Started scraping 45 listings.
+2024-11-27 23:45:31,819 - INFO - Finished scraping 45 listings.
+2024-11-27 23:45:31,820 - INFO - Scrape was finished, yielding 45 new listings. Taking 0:00:36.595019
+
+2024-12-04 22:09:20,733 - INFO - 10165, listing Ids scraped and saved in: 0:05:05.145645
+2024-12-04 22:09:20,751 - INFO - Started scraping 664 listings.
