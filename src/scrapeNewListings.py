@@ -12,7 +12,7 @@ recipient = "ojasaarmarten@gmail.com"
 #commitib ainult stc kausta. ja loggeri viimased read eu tule kaasa. Ide crashib kui telost sulgen arvutu.Mingi jama connectioni vahetamisega? peale ugat tsüklit võib driveri sulgeda
 #scraperUtils.sleepWithCountdown()
 
-scraperUtils.send_email("Started scraping for new listings", datetime.datetime.now(), recipient)
+scraperUtils.send_email("Started scraping for new listings", str(datetime.datetime.now()), recipient)
 
 driver = scraperUtils.getDriver()
 # Populate flat-ids2.csv
@@ -38,7 +38,7 @@ logger.info(string)
 print("Scrape finished in:", scrape_end - scrape_start)
 scrape_finish_message = f"Scrape was finished, yielding {len(only_new_listings)} new listings. Taking {scrape_end - scrape_start}\n"
 logger.info(scrape_finish_message)
-scraperUtils.send_email(scrape_finish_message, datetime.datetime.now(), recipient)
+scraperUtils.send_email(scrape_finish_message, str(datetime.datetime.now()), recipient)
 
 scraperUtils.appendIds(only_new_listings,
                        "../data/flat-ids.csv")  # Append freshly scraped listings ids to the scraped listings file

@@ -161,7 +161,7 @@ def git_commit_and_push(message):
 def send_email(subject, body, receiver_email):
     # Gmail credentials
     try:
-        load_dotenv("../email_credentials.env")
+        load_dotenv("./email_credentials.env")
         sender_email = os.getenv("EMAIL")
         password = os.getenv("PASSWORD")  # Use your app password or regular password if less secure access is enabled
     except Exception as e:
