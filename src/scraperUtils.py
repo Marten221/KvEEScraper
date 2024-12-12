@@ -1,12 +1,18 @@
 import csv
+import logging
+import os
+import smtplib
+import subprocess
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 from random import randint
 from time import sleep
 
 import undetected_chromedriver as uc
-import subprocess
-import os
+from dotenv import load_dotenv
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
+
 
 def appendIds(data_object_ids, location):
     location = os.path.join(script_dir, location)
@@ -131,7 +137,7 @@ def findListingsAmount(soup):
 
 
 def sleepWithCountdown():
-    sleep_time = randint(6 * 10, 8 * 10) #TODO CHANGE 10 - 3600
+    sleep_time = randint(6 * 10, 8 * 10)  # TODO CHANGE 10 - 3600
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)
         minutes, seconds = divmod(remainder, 60)
@@ -148,4 +154,36 @@ def git_commit_and_push(message):
         subprocess.run(["git", "commit", "-m", f"Automated commit \n{message}"], check=True)
         subprocess.run(["git", "push"], check=True)
     except Exception as e:
+        logging.error(f"An error occurred: {e}")
         print(f"An error occurred: {e}")
+
+
+def send_email(subject, body, receiver_email):
+    # Gmail credentials
+    try:
+        load_dotenv("../email_credentials.env")
+        sender_email = os.getenv("EMAIL")
+        password = os.getenv("PASSWORD")  # Use your app password or regular password if less secure access is enabled
+    except Exception as e:
+        error = f"Failed to read email credentials from .env: {e}"
+        logging.error(error)
+        print(error)
+
+
+    # Create email
+    message = MIMEMultipart()
+    message["From"] = sender_email
+    message["To"] = receiver_email
+    message["Subject"] = subject
+    message.attach(MIMEText(body, "plain"))
+
+    # Send email
+    try:
+        with smtplib.SMTP("smtp.gmail.com", 587) as server:
+            server.starttls()  # Encrypt connection
+            server.login(sender_email, password)
+            server.sendmail(sender_email, receiver_email, message.as_string())
+        print("Email sent successfully!")
+    except Exception as e:
+        logging.error(f"Failed to send email: {e}")
+        print(f"Failed to send email: {e}")
