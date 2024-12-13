@@ -8,3 +8,8 @@
 2024-12-11 16:34:54,855 - INFO - Finished scraping 70 listings.
 2024-12-11 16:34:54,855 - INFO - Scrape was finished, yielding 70 new listings. Taking 0:00:57.057201
 
+2024-12-12 17:04:16,083 - INFO - 10123, listing Ids scraped and saved in: 0:03:54.231844
+2024-12-12 17:04:16,092 - INFO - Started scraping 881 listings.
+2024-12-12 17:16:16,760 - INFO - Finished scraping 881 listings.
+2024-12-12 17:16:16,761 - INFO - Scrape was finished, yielding 881 new listings. Taking 0:12:00.665943
+
