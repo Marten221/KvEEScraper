@@ -48,12 +48,3 @@
 2024-12-19 17:05:48,438 - INFO - Finished scraping 70 listings.
 2024-12-19 17:05:48,438 - INFO - Scrape was finished, yielding 70 new listings. Taking 0:00:58.289661
 
-2024-12-20 17:14:11,468 - INFO - 10500, listing Ids scraped and saved in: 0:03:31.129026
-2024-12-20 17:14:11,481 - INFO - Started scraping 1032 listings.
-2025-01-07 23:39:16,677 - INFO - 9683, listing Ids scraped and saved in: 0:03:50.658306
-2025-01-07 23:39:16,691 - INFO - Started scraping 1028 listings.
-2025-01-07 23:40:29,481 - ERROR - An error occurred while fetching listing 3626167: 'NoneType' object has no attribute 'find'
-2025-01-07 23:43:33,658 - ERROR - An error occurred while fetching listing 3712470: 'NoneType' object has no attribute 'find'
-2025-01-07 23:44:18,245 - INFO - Finished scraping 1032 listings.
-2025-01-07 23:44:18,254 - INFO - Scrape was finished, yielding 1032 new listings. Taking 18 days, 6:30:06.764628
-
