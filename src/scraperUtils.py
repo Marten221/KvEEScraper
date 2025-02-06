@@ -169,7 +169,6 @@ def send_email(subject, body, receiver_email):
         logging.error(error)
         print(error)
 
-
     # Create email
     message = MIMEMultipart()
     message["From"] = sender_email

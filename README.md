@@ -32,7 +32,7 @@ This project is a Python-based web scraper designed to collect real estate data 
 
 ## Setup & Usage
 1. **Install Google Chrome:**
-   - Ensure Google Chrome is installed on your system.
+   - Ensure Google Chrome is installed and up to date on your system.
   
 2. **Clone the Repository:**
    ```bash
