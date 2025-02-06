@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 
-def appendIds(data_object_ids, location):
+def append_ids(data_object_ids, location):
     location = os.path.join(script_dir, location)
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
         file.write(",".join(data_object_ids))
@@ -22,7 +22,7 @@ def appendIds(data_object_ids, location):
     print(f"{len(data_object_ids)} Ids appended to:", location, "\n")
 
 
-def clearFile(location):
+def clear_file(location):
     location = os.path.join(script_dir, location)
     with open(location, 'w') as file:
         pass
@@ -34,7 +34,7 @@ fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamist
               "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
 
 
-def writeData(dictionary, location):
+def write_data(dictionary, location):
     location = os.path.join(script_dir, location)
     with open(location, mode="a", newline='', encoding='UTF-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -42,21 +42,21 @@ def writeData(dictionary, location):
     print("1 row of data appended to:", location, "\n")
 
 
-def getIds(soup):
+def get_ids(soup):
     elements = soup.find_all(attrs={"data-object-id": True})
     data_object_ids = [element['data-object-id'] for element in elements]
 
     return data_object_ids
 
 
-def readIds(location):
+def read_ids(location):
     location = os.path.join(script_dir, location)
     with open(location, mode="r") as file:
         line = file.readline()
     return line.split(",")
 
 
-def getDriver():
+def get_driver():
     options = uc.ChromeOptions()
     options.add_argument("--start-maximized")
     options.add_argument(
@@ -74,7 +74,7 @@ def getDriver():
     return uc.Chrome(options=options)
 
 
-def getFeatures(soup):
+def get_features(soup):
     dictionary = dict()
     table_div = soup.find('div', class_="meta-table")
     table = table_div.find('table', class_='table-lined')
@@ -91,13 +91,13 @@ def getFeatures(soup):
     return dictionary
 
 
-def getPrice(soup):
+def get_price(soup):
     price_div = soup.find('div', class_='label campaign')
     price = price_div.get('data-price') if price_div else None
     return price
 
 
-def getLocation(soup):
+def get_location(soup):
     heading_el = soup.find('h1')
     heading = heading_el.text if heading_el else None
     address_parts = [part.strip().lower() for part in heading.split(',')]
@@ -111,7 +111,7 @@ def getLocation(soup):
 valid_keys = fieldnames
 
 
-def cleanDictionary(dictionary):
+def clean_dictionary(dictionary):
     # ÜLDPIND
     pind = dictionary.get('üldpind')  # non-breaking space
     dictionary['üldpind'] = pind.split('\u00A0')[0] if pind else None
@@ -129,14 +129,14 @@ def cleanDictionary(dictionary):
     return filtered_dictionary
 
 
-def findListingsAmount(soup):
+def find_listings_amount(soup):
     span = soup.find('span', class_='large stronger')
     amount_elements = span.text.strip().split(" ")
     amount = amount_elements[-1].split('\u00A0')
     return int(''.join(amount))
 
 
-def sleepWithCountdown():
+def sleep_with_countdown():
     sleep_time = randint(6 * 10, 8 * 10)  # TODO CHANGE 10 - 3600
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)

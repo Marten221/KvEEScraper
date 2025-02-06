@@ -73,3 +73,8 @@
 2025-01-27 19:19:08,812 - INFO - Finished scraping 217 listings.
 2025-01-27 19:19:08,813 - INFO - Scrape was finished, yielding 217 new listings. Taking 0:02:34.170304
 
+2025-02-05 22:33:54,555 - INFO - 9812, listing Ids scraped and saved in: 0:03:00.382529
+2025-02-05 22:33:54,601 - INFO - Started scraping 897 listings.
+2025-02-05 22:44:28,460 - INFO - Finished scraping 897 listings.
+2025-02-05 22:44:28,460 - INFO - Scrape was finished, yielding 897 new listings. Taking 0:10:33.858618
+

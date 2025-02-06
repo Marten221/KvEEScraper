@@ -6,7 +6,7 @@ from . import scraperUtils
 from .logger import logger
 
 
-def scrapeListings(driver, ids):
+def scrape_listings(driver, ids):
     start_time = time.time()
 
     start = 0
@@ -22,13 +22,13 @@ def scrapeListings(driver, ids):
 
             soup = BeautifulSoup(html, 'lxml')
 
-            dictionary = scraperUtils.getFeatures(soup)
-            dictionary['hind'] = scraperUtils.getPrice(soup)
+            dictionary = scraperUtils.get_features(soup)
+            dictionary['hind'] = scraperUtils.get_price(soup)
             dictionary['id'] = listingId
-            dictionary = scraperUtils.cleanDictionary(dictionary)
-            dictionary.update(scraperUtils.getLocation(soup))
+            dictionary = scraperUtils.clean_dictionary(dictionary)
+            dictionary.update(scraperUtils.get_location(soup))
 
-            scraperUtils.writeData(dictionary, "../data/listings_data.csv")
+            scraperUtils.write_data(dictionary, "../data/listings_data.csv")
         except Exception as e:
             string = f"An error occurred while fetching listing {ids[i]}: {e}"
             print(string)
