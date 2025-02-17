@@ -17379,3 +17379,184 @@ id,maakond,linn,linnaosa,pind,tube,magamistube,korrus,korruseid,ehitusaasta,seis
 3722749,valgamaa,valga vald,valga linn,46,2,,4,5,1983,heas korras,d,,korteriomand,25600
 3623962,lääne-virumaa,viru-nigula vald,aseri,48.4,2,1,1,4,1975,keskmine,e,,korteriomand,9000
 3720592,harjumaa,tallinn,lasnamäe,59,2,1,7,9,1988,renoveeritud,d,,korteriomand,108000
+3722945,harjumaa,tallinn,mustamäe,52.3,3,2,4,9,1969,vajab san. remonti,puudub,,korteriomand,99000
+3722941,harjumaa,viimsi vald,viimsi,52.7,2,1,1,5,1983,valmis,c,,korteriomand,125000
+3723147,harjumaa,harku vald,muraste,60.3,2,,2,3,2006,heas korras,f,,korteriomand,159900
+3723329,harjumaa,tallinn,kesklinn,51.7,2,1,3,4,1940,,puudub,,korteriomand,245000
+3722852,läänemaa,haapsalu,haapsalu linn,39.6,2,,4,4,1964,vajab renoveerimist,,,korteriomand,44900
+3723015,harjumaa,tallinn,lasnamäe,32.7,1,,2,9,1987,heas korras,,,korteriomand,85500
+3722844,raplamaa,rapla vald,raikküla,68.1,3,,2,3,1982,vajab renoveerimist,e,,korteriomand,37000
+3723243,harjumaa,tallinn,mustamäe,60.9,3,2,1,5,1968,keskmine,,,korteriomand,128000
+3723085,harjumaa,tallinn,põhja-tallinn,40,3,2,4,4,1963,renoveeritud,f,,,134950
+3702344,harjumaa,tallinn,lasnamäe,66.5,3,,2,5,1980,keskmine,e,,,135000
+3722824,ida-virumaa,sillamäe,1 tuba - kesk tn. 39a,32,1,,4,5,,vajab san. remonti,,,,8700
+3723030,tartumaa,tartu,märja,46,2,1,4,5,1977,keskmine,puudub,,korteriomand,82900
+3723128,pärnumaa,häädemeeste vald,kabli,49.2,2,1,3,3,1981,vajab renoveerimist,,,korteriomand,19000
+3723307,harjumaa,tallinn,põhja-tallinn,41,2,1,3,4,,vajab renoveerimist,e,,korteriomand,85000
+3723090,harjumaa,tallinn,lasnamäe,40,3,2,4,5,1965,renoveeritud,d,,,134950
+3722999,harjumaa,tallinn,kesklinn,40,2,1,2,5,1962,heas korras,puudub,,korteriomand,123500
+3722998,harjumaa,kiili vald,kiili,69,3,,1,2,2023,uus,a,,korteriomand,270000
+3723162,harjumaa,tallinn,mustamäe,43.1,2,1,6,9,1968,vajab renoveerimist,d,,korteriomand,105000
+3723350,harjumaa,tallinn,pirita,127.5,3,2,13,16,,uus,b,,korteriomand,345900
+3722972,harjumaa,tallinn,lasnamäe,79,4,3,8,9,1994,renoveeritud,,,kinnistu,180000
+3723097,harjumaa,harku vald,vääna-jõesuu,122,3,2,2,3,2009,heas korras,puudub,,korteriomand,275000
+3722846,harjumaa,tallinn,mustamäe,60,3,3,9,9,1969,renoveeritud,puudub,,korteriomand,172900
+3722919,ida-virumaa,narva,1 tuba - v. gerassimovi tn 18,27.4,1,1,,,1968,heas korras,,,korteriomand,14900
+3723281,harjumaa,tallinn,kristiine,69.2,3,2,4,4,2008,uus,d,,korteriomand,259000
+3616308,tartumaa,tartu,tartu linn,28,1,1,2,2,,uus,puudub,,kinnistu,63000
+3722861,harjumaa,tallinn,haabersti,98.7,4,3,2,4,2024,,a,,korteriomand,330000
+3722906,harjumaa,tallinn,põhja-tallinn,40.3,2,1,3,4,1962,,f,,korteriomand,110000
+3723228,pärnumaa,pärnu,pärnu linn,58.8,2,1,3,3,2006,heas korras,puudub,,kinnistu,109900
+3723118,tartumaa,tartu,tartu linn,48.5,2,2,5,5,1977,,e,,korteriomand,64900
+3723029,tartumaa,tartu,tartu linn,49.5,2,,3,5,1970,heas korras,b,,korteriomand,108900
+3722549,harjumaa,tallinn,kristiine,47,2,1,3,5,2022,uus,b,,korteriomand,224000
+3721133,harjumaa,tallinn,mustamäe,43,2,,5,9,1970,renoveeritud,c,,,129000
+3723091,viljandimaa,viljandi vald,mustla,47.7,3,,2,2,1975,keskmine,,,korteriomand,21800
+3722850,harjumaa,tallinn,haabersti,68.5,3,2,4,5,2015,heas korras,c,,korteriomand,229900
+3723327,harjumaa,tallinn,lasnamäe,67.6,4,3,1,9,1985,renoveeritud,e,,korteriomand,143900
+3717445,harjumaa,tallinn,haabersti,55.4,2,1,3,4,2024,,a,,korteriomand,220000
+3722940,harjumaa,tallinn,põhja-tallinn,38,2,1,3,4,,renoveeritud,,,,119000
+3723130,läänemaa,haapsalu,haapsalu linn,47.5,2,1,3,5,1980,heas korras,,,korteriomand,69000
+3723018,tartumaa,tartu,tartu linn,41.2,2,,1,5,,keskmine,,,,114000
+3722260,harjumaa,tallinn,mustamäe,80.9,3,2,6,9,2009,uus,c,,korteriomand,239000
+3443344,harjumaa,viimsi vald,viimsi,51,2,1,2,3,2017,uus,c,,korteriomand,199900
+3723086,harjumaa,tallinn,lasnamäe,42.3,3,2,5,5,1987,renoveeritud,d,,,136950
+3722851,harjumaa,tallinn,nõmme,43.5,2,1,5,5,1967,vajab renoveerimist,h,,korteriomand,99000
+3723253,tartumaa,tartu,tartu linn,,2,1,2,2,1977,renoveeritud,puudub,,kaasomand,155000
+3722862,harjumaa,rae vald,rae,99.5,5,,1,3,2021,uus,c,,korteriomand,279000
+3723033,harjumaa,lääne-harju vald,paldiski linn,40,2,,2,4,1987,keskmine,,,,42000
+3723296,harjumaa,tallinn,haabersti,44.8,1,,3,16,2024,uus,b,,korteriomand,149900
+3723207,harjumaa,tallinn,kristiine,59.3,3,2,5,5,1961,renoveeritud,puudub,,korteriomand,154900
+3723192,harjumaa,tallinn,lasnamäe,21.9,1,1,1,5,1972,,e,,korteriomand,94000
+3722594,harjumaa,tallinn,haabersti,76.9,3,,4,16,2024,uus,b,,korteriomand,234900
+3723096,harjumaa,maardu,2 tuba - kallasmaa tn 15,48.1,2,,5,5,1976,san. remont tehtud,f,,korteriomand,77000
+3723037,tartumaa,kambja vald,tõrvandi,75.4,4,3,,2,2021,uus,,,korteriomand,199000
+3723102,harjumaa,tallinn,mustamäe,47,3,2,3,5,1966,renoveeritud,puudub,,korteriomand,139900
+3723347,harjumaa,tallinn,lasnamäe,60.5,3,2,7,9,1987,heas korras,puudub,,korteriomand,129900
+3723189,tartumaa,tartu,tartu linn,46.1,2,1,3,4,2025,uus,a,,korteriomand,157900
+3723120,harjumaa,tallinn,nõmme,66.5,3,2,2,4,1995,heas korras,e,,korteriomand,164900
+3723017,tartumaa,tartu,tartu linn,48.6,2,1,,3,2020,heas korras,,,korteriomand,170000
+3723265,harjumaa,tallinn,põhja-tallinn,67.3,3,2,1,4,,uusarendus,a,,korteriomand,399800
+3723083,harjumaa,tallinn,lasnamäe,48.1,3,2,2,5,1987,renoveeritud,d,,,141950
+3722597,harjumaa,tallinn,lasnamäe,34,1,1,2,9,1988,vajab renoveerimist,puudub,,korteriomand,79000
+3722285,harjumaa,kuusalu vald,kolga-aabla,75.7,3,2,2,2,1976,heas korras,,,korteriomand,69000
+3722958,harjumaa,tallinn,nõmme,118.2,3,2,1,2,2003,,c,,korteriomand,339000
+3723034,harjumaa,tallinn,kesklinn,39,3,2,,4,1961,uus,,,korteriomand,149990
+3723076,harjumaa,tallinn,kristiine,93.1,4,3,4,20,2020,uus,c,,korteriomand,418000
+3722842,harjumaa,maardu,3 tuba - orumetsa tn 6,54.3,3,2,1,2,,heas korras,,,korteriomand,89900
+3723168,harjumaa,tallinn,lasnamäe,32.7,2,1,9,9,,uus,,,korteriomand,105000
+3722889,harjumaa,tallinn,lasnamäe,32.7,2,,5,5,1985,,d,,korteriomand,95500
+3675070,harjumaa,tallinn,põhja-tallinn,41.8,1,,1,3,1910,renoveeritud,puudub,,korteriomand,129000
+3723202,harjumaa,tallinn,mustamäe,43.1,2,1,8,9,1972,valmis,d,,korteriomand,108000
+3715962,pärnumaa,pärnu,pärnu linn,53.3,2,1,2,2,,heas korras,puudub,,kinnistu,249000
+3710808,pärnumaa,tori vald,sauga,63.1,3,2,3,3,2007,heas korras,,,korteriomand,125000
+3723219,harjumaa,tallinn,põhja-tallinn,16.2,1,1,,3,1952,heas korras,e,,korteriomand,69900
+3723308,harjumaa,tallinn,haabersti,33,,,,9,1976,,d,,,58500
+3723172,pärnumaa,pärnu,pärnu linn,34.2,3,2,1,2,2022,heas korras,puudub,,korteriomand,205000
+3722893,järvamaa,paide,paide linn,39.3,2,,2,4,1969,vajab renoveerimist,f,,korteriomand,37500
+3723293,ida-virumaa,lüganuse vald,kiviõli linn,61.6,3,3,2,6,1978,,puudub,,korteriomand,14000
+3722983,harjumaa,kiili vald,vaela,122.3,4,3,1,2,2024,uus,a,,korteriomand,329000
+3722595,harjumaa,tallinn,haabersti,45.3,1,,4,16,2024,uus,b,,korteriomand,159900
+3723040,harjumaa,tallinn,haabersti,54.8,2,1,2,3,2007,heas korras,d,,korteriomand,199000
+3722947,lääne-virumaa,tapa vald,tapa linn,59.7,3,2,2,5,1984,heas korras,,,korteriomand,65000
+3723103,harjumaa,tallinn,põhja-tallinn,26.7,1,,2,5,1970,heas korras,puudub,,korteriomand,84900
+3722868,ida-virumaa,sillamäe,1 tuba - ranna tn. 39,31,1,,4,4,1960,keskmine,,,,12800
+3723272,harjumaa,tallinn,lasnamäe,32.8,1,1,3,5,2006,heas korras,puudub,,korteriomand,99990
+3723170,harjumaa,tallinn,kesklinn,48.1,2,1,7,14,2020,uus,a,,korteriomand,230000
+3722847,harjumaa,tallinn,nõmme,57.7,2,1,2,5,1971,heas korras,e,,korteriomand,169000
+3723205,harjumaa,tallinn,lasnamäe,60.1,3,2,3,9,1994,renoveeritud,puudub,,korteriomand,124990
+3723197,harjumaa,tallinn,haabersti,90,3,2,2,3,2021,,b,,korteriomand,380000
+3723194,pärnumaa,pärnu,eeslinn,30.9,1,,1,3,,valmis,,,korteriomand,66900
+3723188,harjumaa,tallinn,vanalinn,169.5,5,4,5,6,1952,vajab renoveerimist,h,,korteriomand,525000
+3722911,harjumaa,tallinn,haabersti,77.3,3,2,5,8,2021,uus,c,,,237000
+3723071,harjumaa,rae vald,jüri,105.6,5,4,3,5,1983,keskmine,c,,korteriomand,179000
+3722996,harjumaa,tallinn,kristiine,61.8,3,2,2,7,,uusarendus,b,,korteriomand,230950
+3723047,harjumaa,tallinn,kesklinn,39,2,2,,4,1961,uus,,,korteriomand,149990
+3722923,ida-virumaa,narva,2 tuba - tallinna mnt 26,40.4,2,1,2,5,1965,vajab renoveerimist,puudub,,korteriomand,12500
+3722976,harjumaa,tallinn,lasnamäe,79.4,3,2,,16,1986,renoveeritud,,,korteriomand,189000
+3568493,viljandimaa,viljandi,4 tuba - hariduse tn 12,101,4,3,,,2022,uus,,,korteriomand,240000
+3722931,ida-virumaa,lüganuse vald,kiviõli linn,62.2,3,2,1,5,1975,vajab renoveerimist,,,kinnistu,
+3723105,pärnumaa,pärnu,pärnu linn,66,3,2,2,5,1977,renoveeritud,,,korteriomand,100000
+3723250,tartumaa,tartu,tartu linn,64.9,2,1,2,6,2006,san. remont tehtud,puudub,,korteriomand,161000
+3723002,pärnumaa,pärnu,mai,36.3,2,,5,5,2004,uus,,,korteriomand,105000
+3722880,harjumaa,tallinn,lasnamäe,64.5,4,3,6,9,1984,renoveeritud,e,,,149900
+3722821,tartumaa,tartu vald,tabivere,59,4,3,2,2,1980,uus,,,,93300
+3722993,harjumaa,tallinn,põhja-tallinn,46.8,2,1,5,5,,renoveeritud,c,,korteriomand,135000
+3722903,tartumaa,tartu,tartu linn,48.8,2,1,2,3,2017,heas korras,,,,142900
+3723157,harjumaa,tallinn,mustamäe,57.5,3,2,3,5,1976,,puudub,,korteriomand,136000
+3722992,pärnumaa,tori vald,sauga,46.3,2,,2,3,2007,heas korras,,,korteriomand,99000
+3722914,ida-virumaa,narva,2 tuba - kangelaste prospekt 42,49.6,2,1,4,5,1980,renoveeritud,,,korteriomand,44000
+3723035,tartumaa,tartu,tartu linn,66,3,2,5,5,1993,vajab renoveerimist,,,korteriomand,99000
+3722669,harjumaa,tallinn,haabersti,37.3,2,,2,5,2022,heas korras,b,,korteriomand,187000
+3723271,harjumaa,tallinn,kesklinn,19.4,1,,2,2,,renoveeritud,puudub,,korteriomand,85000
+3723106,harjumaa,tallinn,kesklinn,52.3,2,1,4,7,2007,keskmine,puudub,,korteriomand,189000
+3722949,harjumaa,jõelähtme vald,liivamäe,116.3,5,4,,2,2024,uus,,,korteriomand,298000
+3722871,pärnumaa,tori vald,sindi linn,46.1,2,1,3,5,1983,renoveeritud,,,korteriomand,65000
+3723028,ida-virumaa,narva,müüa korter - juuli tn 13,48.6,,,,5,1987,heas korras,d,,korteriomand,48000
+3722901,tartumaa,tartu,tartu linn,64.7,3,3,5,5,1982,renoveeritud,d,,korteriomand,109000
+3722967,harjumaa,tallinn,kadriorg,92.9,3,2,3,5,2017,heas korras,a,,korteriomand,420000
+3723006,ida-virumaa,kohtla-järve,järve,39.6,1,,2,2,1948,keskmine,,,korteriomand,6800
+3722950,harjumaa,tallinn,lasnamäe,32.7,1,1,3,9,1982,keskmine,d,,,79000
+3723295,harjumaa,maardu,2 tuba - veeru tn 12,32.8,2,1,5,9,1986,renoveeritud,f,,korteriomand,89500
+3723001,harjumaa,tallinn,kristiine,27.2,1,1,1,7,2026,uusarendus,b,,korteriomand,123630
+3723134,harjumaa,tallinn,kesklinn,90.8,3,2,6,6,1940,valmis,,,korteriomand,270000
+3723193,harjumaa,keila,4 tuba - paldiski mnt 32,72,4,3,2,3,1987,san. remont tehtud,c,,korteriomand,148000
+3723098,harjumaa,maardu,2 tuba - avar tn 5,47.7,2,1,3,5,1987,renoveeritud,,,korteriomand,79900
+3659456,jõgevamaa,jõgeva vald,tõikvere,50,2,,3,3,1980,vajab renoveerimist,puudub,,korteriomand,6000
+3723133,harjumaa,tallinn,kesklinn,49.9,2,1,3,8,2016,uus,b,,korteriomand,230000
+3721198,harjumaa,tallinn,mustamäe,56.4,3,,4,5,1963,renoveeritud,d,,,155550
+3723254,harjumaa,tallinn,põhja-tallinn,81.2,4,3,3,4,2025,uusarendus,a,,korteriomand,568000
+3722982,viljandimaa,mulgi vald,abja-paluoja linn,63.7,4,,1,3,1971,valmis,c,,korteriomand,35000
+3723222,viljandimaa,viljandi,männimäe,33.7,1,,5,5,1985,san. remont tehtud,c,,korteriomand,53000
+3723136,harjumaa,tallinn,haabersti,52.4,2,2,4,5,1978,vajab renoveerimist,puudub,,korteriomand,110000
+3722944,harjumaa,tallinn,kesklinn,91.5,3,,2,5,2018,heas korras,puudub,,korteriomand,529000
+3723211,järvamaa,paide,paide linn,39.2,2,,3,4,1966,heas korras,f,,korteriomand,42000
+3723201,pärnumaa,pärnu,pärnu linn,60,3,2,3,5,1970,keskmine,c,,korteriomand,120000
+3723081,tartumaa,tartu,tartu linn,44.5,2,1,2,5,1982,renoveeritud,c,,korteriomand,119990
+3722952,ida-virumaa,narva,2 tuba - tallinna mnt 31,40,2,,3,5,1965,,,,,15000
+3722990,harjumaa,tallinn,kristiine,53.2,2,1,1,7,2026,uusarendus,b,,korteriomand,198810
+3723297,harjumaa,tallinn,haabersti,64,2,,4,16,2024,uus,b,,korteriomand,214900
+3722722,harjumaa,anija vald,lehtmetsa,32.9,1,1,4,5,1987,heas korras,d,,korteriomand,45000
+3723027,tartumaa,elva vald,ulila,37.1,2,1,1,3,1974,renoveeritud,g,,korteriomand,54990
+3722962,raplamaa,kehtna vald,lokuta,70.9,4,3,1,2,1987,heas korras,,,korteriomand,30000
+3723218,ida-virumaa,sillamäe,2 tuba - j. gagarini tn 19,47.8,2,1,1,5,1972,keskmine,,,korteriomand,15900
+3723328,harjumaa,tallinn,lasnamäe,67.6,2,3,1,9,1985,renoveeritud,e,,korteriomand,143900
+3722912,jõgevamaa,põltsamaa vald,vägari,41.9,2,1,2,2,1971,vajab renoveerimist,puudub,,korteriomand,5000
+3723025,valgamaa,valga vald,valga linn,49.9,3,,,1,,keskmine,,,,13900
+3723204,harjumaa,tallinn,mustamäe,62.5,3,2,2,8,2003,valmis,puudub,,korteriomand,173000
+3723109,harjumaa,tallinn,haabersti,52.3,2,1,1,8,2021,uus,c,,korteriomand,179900
+3723181,harjumaa,tallinn,mustamäe,62,3,2,5,5,1971,vajab renoveerimist,d,,korteriomand,135000
+3723326,harjumaa,tallinn,lasnamäe,67.6,3,3,1,9,1985,renoveeritud,e,,korteriomand,143900
+3722951,pärnumaa,pärnu,pärnu linn,61.1,2,1,8,8,2006,heas korras,c,,,175000
+3653118,pärnumaa,pärnu,männikuste,78.4,4,3,,2,1986,vajab renoveerimist,puudub,,kinnistu,19900
+3723016,harjumaa,tallinn,haabersti,62.4,3,2,4,4,2021,heas korras,b,,,239000
+3723288,harjumaa,tallinn,haabersti,65.1,3,2,5,9,1975,renoveeritud,puudub,,korteriomand,152000
+3723022,ida-virumaa,alutaguse vald,tudulinna,48.9,2,1,2,2,1976,vajab san. remonti,,,,7500
+3722997,harjumaa,tallinn,kristiine,89.9,4,3,2,7,,uusarendus,b,,korteriomand,326880
+3723158,harjumaa,tallinn,pirita,166.1,4,3,5,16,,uus,b,,korteriomand,405000
+3722897,harjumaa,tallinn,mustamäe,56,3,1,1,5,1964,renoveeritud,c,,korteriomand,125000
+3722618,harjumaa,tallinn,lasnamäe,32.7,1,1,5,5,1987,heas korras,d,,kinnistu,84000
+3723119,harjumaa,tallinn,nõmme,66.5,2,1,2,4,1995,heas korras,e,,korteriomand,164900
+3723039,harjumaa,keila,5 tuba - mäe tn 12,86.1,5,4,3,4,1995,keskmine,,,korteriomand,149000
+3723190,harjumaa,tallinn,mustamäe,66.5,2,1,5,5,1969,vajab renoveerimist,d,,korteriomand,119000
+3722961,harjumaa,tallinn,kadriorg,37.6,2,1,1,3,1949,renoveeritud,puudub,,korteriomand,140000
+3645401,läänemaa,lääne-nigula vald,taebla,41.3,2,,3,3,1981,renoveeritud,g,,korteriomand,45000
+3722882,ida-virumaa,narva,2 tuba - tallinna mnt 44a,48.4,2,1,5,5,1974,keskmine,e,,korteriomand,21000
+3723072,harjumaa,tallinn,kesklinn,105.6,5,4,3,5,1983,keskmine,c,,korteriomand,179000
+3715268,harjumaa,rae vald,karla,129.2,4,3,1,2,2006,heas korras,puudub,,korteriomand,268000
+3723077,harjumaa,tallinn,mustamäe,56.5,2,1,1,8,2020,uus,c,,korteriomand,205000
+3723000,harjumaa,tallinn,kristiine,77.4,4,3,5,9,,renoveeritud,,,korteriomand,189000
+3722916,ida-virumaa,narva,2 tuba - tallinna mnt 32,48.7,2,,3,9,1977,heas korras,,,,44000
+3723054,ida-virumaa,jõhvi vald,jõhvi linn,39.7,2,,1,4,1965,renoveeritud,e,,,34900
+3482368,harjumaa,tallinn,põhja-tallinn,39,2,,5,5,1978,renoveeritud,e,,korteriomand,117000
+3723141,harjumaa,tallinn,lasnamäe,35.6,2,1,1,4,1961,keskmine,,,korteriomand,104000
+3723196,harjumaa,tallinn,kristiine,58.8,3,1,1,4,1940,heas korras,,,korteriomand,198000
+3722928,harjumaa,tallinn,kristiine,63.9,3,2,3,3,,,puudub,,korteriomand,219700
+3644874,läänemaa,haapsalu,haapsalu linn,72.8,2,1,3,3,1959,keskmine,,,korteriomand,92000
+3723229,harjumaa,tallinn,kesklinn,82.1,3,2,5,6,2016,,b,,,410000
+3723276,harjumaa,tallinn,põhja-tallinn,82.4,3,2,5,6,2023,uus,b,,korteriomand,490000
+3722883,harjumaa,tallinn,lasnamäe,64.5,3,3,6,9,1984,renoveeritud,e,,,149900
+3723104,harjumaa,tallinn,vanalinn,24.8,1,,2,7,1920,renoveeritud,,,korteriomand,159000
+3722803,tartumaa,tartu,tartu linn,47.7,2,1,4,5,1995,renoveeritud,c,,korteriomand,87500
+3722593,harjumaa,tallinn,haabersti,64,2,,3,16,2024,uus,b,,korteriomand,209900
+3723067,ida-virumaa,narva,3 tuba - haigla tn 10,78.8,3,2,2,2,1954,vajab renoveerimist,,,korteriomand,46000
