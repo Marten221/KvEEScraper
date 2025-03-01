@@ -1,5 +1,8 @@
 # KV.ee Apartment Listings Scraper
 
+## Machine learmong model development
+https://github.com/RobinHenrik/RealEstatePricePredicing
+
 ## Overview
 This project is a Python-based web scraper designed to collect real estate data from [KV.ee](https://kv.ee), focusing on apartments for sale in Estonia. The scraper gathers detailed information about active listings and automates daily data collection for market analysis.
 
