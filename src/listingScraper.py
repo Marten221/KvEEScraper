@@ -2,8 +2,8 @@ import time
 
 from bs4 import BeautifulSoup
 
-from . import scraperUtils
-from .logger import logger
+import scraperUtils
+from logger import logger
 
 
 def scrape_listings(driver, ids):

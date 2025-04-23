@@ -8,8 +8,10 @@ from email.mime.text import MIMEText
 from random import randint
 from time import sleep
 
-import undetected_chromedriver as uc
 from dotenv import load_dotenv
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.service import Service
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -57,21 +59,25 @@ def read_ids(location):
 
 
 def get_driver():
-    options = uc.ChromeOptions()
+
+    options = Options()
     options.add_argument("--start-maximized")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36")
-    options.add_argument("--disable-extensions")
-    options.add_argument("--disable-infobars")
+    options.set_preference("general.useragent.override",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    )
 
-    # Disable images, fonts, stylesheets to save bandwith
-    prefs = {"profile.managed_default_content_settings.images": 2,
-             "profile.managed_default_content_settings.stylesheets": 2,
-             "profile.managed_default_content_settings.fonts": 2,
-             }
-    options.add_experimental_option("prefs", prefs)
+    # TODO: doesnt work
+    # Disable images, fonts, stylesheets to save bandwidth
+    options.set_preference("permissions.default.image", 2)
+    options.set_preference("permissions.default.stylesheet", 2)
+    options.set_preference("permissions.default.font", 2)
 
-    return uc.Chrome(options=options)
+    # Path to geckodriver (cross-platform)
+    geckodriver_path = "C:/Users/Marte/geckodriver.exe"  # or "geckodriver.exe" on Windows
+    service = Service(executable_path=geckodriver_path)
+
+    return webdriver.Firefox(service=service)
 
 
 def get_features(soup):
@@ -137,7 +143,7 @@ def find_listings_amount(soup):
 
 
 def sleep_with_countdown():
-    sleep_time = randint(6 * 10, 8 * 10)  # TODO CHANGE 10 - 3600
+    sleep_time = randint(6 * 10, 8 * 10)
     while sleep_time > 0:
         hours, remainder = divmod(sleep_time, 3600)
         minutes, seconds = divmod(remainder, 60)
