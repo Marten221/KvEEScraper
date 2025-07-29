@@ -1,14 +1,10 @@
 import datetime
 import os
 
-from . import scraperUtils
-from .logger import logger
-from . import listingIdScraper
-from . import listingScraper
+from logger import logger
+from src import scraperUtils, listingIdScraper, listingScraper
 
 recipient = "ojasaarmarten@gmail.com"
-
-#scraperUtils.sleepWithCountdown()
 
 scraperUtils.send_email("Started scraping for new listings", str(datetime.datetime.now()), recipient)
 

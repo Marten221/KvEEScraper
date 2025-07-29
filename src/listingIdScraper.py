@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import datetime
 import scraperUtils
-from logger import logger
+import logger
 
 
 def get_listings_amount(driver):

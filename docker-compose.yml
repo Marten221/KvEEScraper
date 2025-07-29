@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: kveescraper
+    env_file:
+      - credentials.env

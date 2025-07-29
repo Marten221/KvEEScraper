@@ -11,7 +11,6 @@ from time import sleep
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.firefox.service import Service
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -61,7 +60,7 @@ def read_ids(location):
 def get_driver():
 
     options = Options()
-    options.add_argument("--start-maximized")
+    options.add_argument("--headless")
     options.set_preference("general.useragent.override",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
@@ -73,11 +72,8 @@ def get_driver():
     options.set_preference("permissions.default.stylesheet", 2)
     options.set_preference("permissions.default.font", 2)
 
-    # Path to geckodriver (cross-platform)
-    geckodriver_path = "C:/Users/Marte/geckodriver.exe"  # or "geckodriver.exe" on Windows
-    service = Service(executable_path=geckodriver_path)
 
-    return webdriver.Firefox(service=service)
+    return webdriver.Firefox(options=options)
 
 
 def get_features(soup):
@@ -167,7 +163,7 @@ def git_commit_and_push(message):
 def send_email(subject, body, receiver_email):
     # Gmail credentials
     try:
-        load_dotenv("./email_credentials.env")
+        load_dotenv("./credentials.env")
         sender_email = os.getenv("EMAIL")
         password = os.getenv("PASSWORD")  # Use your app password or regular password if less secure access is enabled
     except Exception as e:
