@@ -78,3 +78,28 @@
 2025-02-05 22:44:28,460 - INFO - Finished scraping 897 listings.
 2025-02-05 22:44:28,460 - INFO - Scrape was finished, yielding 897 new listings. Taking 0:10:33.858618
 
+2025-02-11 13:45:35,047 - INFO - 9854, listing Ids scraped and saved in: 0:03:57.618259
+2025-02-11 13:45:35,056 - INFO - Started scraping 408 listings.
+2025-02-11 13:52:00,889 - INFO - Finished scraping 408 listings.
+2025-02-11 13:52:00,890 - INFO - Scrape was finished, yielding 408 new listings. Taking 0:06:25.833429
+
+2025-02-14 19:51:41,939 - INFO - 9878, listing Ids scraped and saved in: 0:03:30.498462
+2025-02-14 19:51:41,947 - INFO - Started scraping 317 listings.
+2025-02-14 19:56:02,977 - INFO - Finished scraping 317 listings.
+2025-02-14 19:56:02,978 - INFO - Scrape was finished, yielding 317 new listings. Taking 0:04:21.030608
+
+2025-02-15 17:31:33,919 - INFO - 9856, listing Ids scraped and saved in: 0:03:25.346062
+2025-02-15 17:31:33,967 - INFO - Started scraping 42 listings.
+2025-02-15 17:32:08,529 - INFO - Finished scraping 42 listings.
+2025-02-15 17:32:08,529 - INFO - Scrape was finished, yielding 42 new listings. Taking 0:00:34.562530
+
+2025-02-17 19:10:49,959 - INFO - 9920, listing Ids scraped and saved in: 0:03:24.626637
+2025-02-17 19:10:50,007 - INFO - Started scraping 181 listings.
+2025-02-17 19:13:25,657 - INFO - Finished scraping 181 listings.
+2025-02-17 19:13:25,657 - INFO - Scrape was finished, yielding 181 new listings. Taking 0:02:35.650092
+
+2025-02-20 00:10:33,815 - INFO - 9996, listing Ids scraped and saved in: 0:03:34.965905
+2025-02-20 00:10:33,821 - INFO - Started scraping 23 listings.
+2025-02-20 00:10:52,688 - INFO - Finished scraping 23 listings.
+2025-02-20 00:10:52,689 - INFO - Scrape was finished, yielding 23 new listings. Taking 0:00:18.867474
+
