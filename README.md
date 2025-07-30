@@ -62,7 +62,8 @@ This project is a Python-based web scraper designed to collect real estate data 
 
 7. **Run the Scraper:**
    ```bash
-   python -u -m src.scrapeNewListings
+   docker compose up
+   docker compose run --rm scraper
    ```
 
 ## Project Impact

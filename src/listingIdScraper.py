@@ -13,13 +13,13 @@ def get_listings_amount(driver):
 
 
 def scrape_listing_ids(driver):
-    scraperUtils.clear_file("../data/flat-ids2.csv")
+    #scraperUtils.clear_file("../data/flat-ids2.csv")
     start = 0
 
     try:
         stop = get_listings_amount(driver)
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred getting listings amount: {e}")
         stop = 10500
 
     print(f"found {stop} listings")
