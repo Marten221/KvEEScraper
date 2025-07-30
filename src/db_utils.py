@@ -6,14 +6,14 @@ load_dotenv("../credentials.env")
 
 INSERT_COMMAND = """
     INSERT INTO listings (
-        listing_id, listing_type_enum, building_type,
+        listing_id, listing_type_enum, building_type_enum,
         county, city, district, area, rooms, bedrooms,
         floor, nr_of_floors, year_built, condition, energy_mark,
-        building_material, ownership_form, price
-    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ownership_form, price
+    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 """
 
-def get_cursor():
+def get_connection():
     conn = psycopg2.connect(
         host=os.getenv("DB_HOST"),
         port=os.getenv("DB_PORT"),
@@ -22,7 +22,32 @@ def get_cursor():
         password=os.getenv("DB_PASSWORD")
     )
     conn.autocommit = True  # Optional: Auto-commit each insert
-    return conn.cursor()
+    return conn
+
+def get_existing_ids(cur):
+    cur = get_connection().cursor()
+    cur.execute("SELECT listing_id FROM listings")
+    return set(row[0] for row in cur.fetchall())
+
+def insert_data(cur, dictionary):
+    cur.execute(INSERT_COMMAND, (
+        dictionary.get("id"),
+        dictionary.get("listing_type_enum"),
+        dictionary.get("building_type_enum"),
+        dictionary.get("maakond"),
+        dictionary.get("linn"),
+        dictionary.get("linnaosa"),
+        dictionary.get("üldpind"),
+        dictionary.get("tube"),
+        dictionary.get("magamistube"),
+        dictionary.get("korrus"),
+        dictionary.get("korruseid"),
+        dictionary.get("ehitusaasta"),
+        dictionary.get("seisukord"),
+        dictionary.get("energiamärgis"),
+        dictionary.get("omandivorm"),
+        dictionary.get("hind")
+    ))
 
 '''
 DO $$

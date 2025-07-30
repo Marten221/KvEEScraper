@@ -9717,3 +9717,27 @@
 2025-07-29 22:18:11,021 - INFO - Finished scraping 4762 listings.
 2025-07-29 22:18:11,021 - INFO - Scrape was finished, yielding 4762 new listings. Taking 0:00:03.629335
 
+2025-07-30 22:08:11,714 - ERROR - An error occurred while fetching listing 3760997: insert_data() missing 1 required positional argument: 'dictionary'
+2025-07-30 22:09:09,790 - ERROR - An error occurred while fetching listing 3760997: 'building_type_enum'
+2025-07-30 22:10:26,391 - ERROR - An error occurred while fetching listing 3760997: 'pind'
+2025-07-30 22:10:55,550 - ERROR - An error occurred while fetching listing 3760997: 'pind'
+2025-07-30 22:11:18,125 - ERROR - An error occurred while fetching listing 3760997: 'hoone materjal'
+2025-07-30 22:15:02,926 - ERROR - An error occurred while fetching listing 3760997: tuple index out of range
+2025-07-30 22:44:41,913 - ERROR - An error occurred while fetching listing 3765615: duplicate key value violates unique constraint "listings_listing_id_key"
+DETAIL:  Key (listing_id)=(3765615) already exists.
+
+2025-07-30 22:46:25,641 - ERROR - An error occurred while fetching listing 3760997: 'NoneType' object has no attribute 'group'
+2025-07-30 22:48:09,034 - ERROR - An error occurred while fetching listing 3760997: 'NoneType' object has no attribute 'group'
+2025-07-30 22:49:03,918 - ERROR - An error occurred while fetching listing 3760997: 'NoneType' object has no attribute 'group'
+2025-07-30 22:49:45,580 - ERROR - An error occurred while fetching listing 3760997: 'NoneType' object has no attribute 'group'
+2025-07-30 22:53:12,371 - INFO - jahhuu
+2025-07-30 23:01:26,501 - INFO - working on listing(0/1): 3765928
+2025-07-30 23:01:27,875 - ERROR - An error occurred while fetching listing 3765928: unsupported operand type(s) for &: 'str' and 'int'
+2025-07-30 23:02:10,513 - INFO - working on listing(0/1): 3765928
+2025-07-30 23:02:11,518 - ERROR - An error occurred while fetching listing 3765928: unsupported operand type(s) for &: 'str' and 'int'
+2025-07-30 23:03:34,345 - INFO - working on listing(0/1): 3765928
+2025-07-30 23:04:39,395 - INFO - working on listing(0/1): 3765928
+2025-07-30 23:05:51,833 - INFO - working on listing(0/1): 3765928
+2025-07-30 23:11:35,294 - INFO - working on listing(0/1): 3768845
+2025-07-30 23:15:23,510 - INFO - working on listing(0/1): 3768845
+2025-07-30 23:16:04,344 - INFO - working on listing(0/1): 3745666

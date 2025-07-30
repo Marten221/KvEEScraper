@@ -7,71 +7,29 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from random import randint
 from time import sleep
+import re
 
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-
-
-def append_ids(data_object_ids, location):
-    location = os.path.join(script_dir, location)
-    with open(location, mode="a", newline='', encoding='UTF-8') as file:
-        file.write(",".join(data_object_ids))
-        file.write(",")
-    print(f"{len(data_object_ids)} Ids appended to:", location, "\n")
-
-
-def clear_file(location):
-    location = os.path.join(script_dir, location)
-    with open(location, 'w') as file:
-        pass
-    print(location, "cleared")
-
-
-# id, maakond, linn, linnaosa, pind, tube, magamistube, korrus, korruseid, ehitusaasta, seisukord, energiamärgis, hind
-fieldnames = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamistube", "korrus", "korruseid",
-              "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
-
-
-def write_data(dictionary, location):
-    location = os.path.join(script_dir, location)
-    with open(location, mode="a", newline='', encoding='UTF-8') as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
-        writer.writerow(dictionary)
-    print("1 row of data appended to:", location, "\n")
-
 
 def get_ids(soup):
     elements = soup.find_all(attrs={"data-object-id": True})
-    data_object_ids = [element['data-object-id'] for element in elements]
+    data_object_ids = set(element['data-object-id'] for element in elements)
 
     return data_object_ids
 
-
-def read_ids(location):
-    location = os.path.join(script_dir, location)
-    with open(location, mode="r") as file:
-        line = file.readline()
-    return line.split(",")
-
-
 def get_driver():
-
     options = Options()
     options.add_argument("--headless")
     options.set_preference("general.useragent.override",
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
     )
-
-    # TODO: doesnt work
-    # Disable images, fonts, stylesheets to save bandwidth
     options.set_preference("permissions.default.image", 2)
     options.set_preference("permissions.default.stylesheet", 2)
     options.set_preference("permissions.default.font", 2)
-
 
     return webdriver.Firefox(options=options)
 
@@ -93,9 +51,21 @@ def get_features(soup):
     return dictionary
 
 
-def get_price(soup):
-    price_div = soup.find('div', class_='label campaign')
-    price = price_div.get('data-price') if price_div else None
+def get_price(soup, deal_type):
+    if deal_type % 2 == 0: #types 2 and 4 are for rent
+        # Find the price-outer div
+        price_outer = soup.find('div', class_='price-outer')
+
+        # Get the first div inside it (which contains the price)
+        price_div = price_outer.find('div')
+
+        # Get the text from the div, excluding the <small> part
+        price_text = price_div.find(text=True, recursive=False)
+        price = re.sub(r'\D', '', price_text)
+    else:
+        price_div = soup.find('div', class_='label campaign')
+        price = price_div.get('data-price') if price_div else None
+
     return price
 
 
@@ -110,8 +80,9 @@ def get_location(soup):
     return dictionary
 
 
-valid_keys = fieldnames
 
+valid_keys = ["id", "maakond", "linn", "linnaosa", "üldpind", "tube", "magamistube", "korrus", "korruseid",
+              "ehitusaasta", "seisukord", "energiamärgis", "hoone materjal", "omandivorm", "hind"]
 
 def clean_dictionary(dictionary):
     # ÜLDPIND
@@ -130,6 +101,21 @@ def clean_dictionary(dictionary):
 
     return filtered_dictionary
 
+def add_deal_type_to(dictionary, deal_type):
+    if deal_type == 1:
+        dictionary["listing_type_enum"] = "sale"
+        dictionary["building_type_enum"] = "flat"
+    elif deal_type == 2:
+        dictionary["listing_type_enum"] = "rent"
+        dictionary["building_type_enum"] = "flat"
+    elif deal_type == 3:
+        dictionary["listing_type_enum"] = "sale"
+        dictionary["building_type_enum"] = "house"
+    elif deal_type == 4:
+        dictionary["listing_type_enum"] = "rent"
+        dictionary["building_type_enum"] = "house"
+    return dictionary
+
 
 def find_listings_amount(soup):
     span = soup.find('span', class_='large stronger')
@@ -137,27 +123,6 @@ def find_listings_amount(soup):
     amount = amount_elements[-1].split('\u00A0')
     return int(''.join(amount))
 
-
-def sleep_with_countdown():
-    sleep_time = randint(6 * 10, 8 * 10)
-    while sleep_time > 0:
-        hours, remainder = divmod(sleep_time, 3600)
-        minutes, seconds = divmod(remainder, 60)
-        print(f"\rTime left: {hours:02d}:{minutes:02d}:{seconds:02d}", flush=True, end='')
-        sleep(1)
-        sleep_time -= 1
-    print("\nDone sleeping!")
-
-
-def git_commit_and_push(message):
-    sleep(10)
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", f"Automated commit \n{message}"], check=True)
-        subprocess.run(["git", "push"], check=True)
-    except Exception as e:
-        logging.error(f"An error occurred: {e}")
-        print(f"An error occurred: {e}")
 
 
 def send_email(subject, body, receiver_email):
@@ -169,7 +134,6 @@ def send_email(subject, body, receiver_email):
     except Exception as e:
         error = f"Failed to read email credentials from .env: {e}"
         logging.error(error)
-        print(error)
 
     # Create email
     message = MIMEMultipart()

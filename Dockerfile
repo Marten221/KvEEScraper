@@ -33,4 +33,4 @@ COPY data/ data/
 COPY credentials.env credentials.env
 
 # Run main
-CMD ["python", "src/main.py"]
+CMD ["python", "src/scrapeNewListings.py"]
