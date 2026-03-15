@@ -1,6 +1,6 @@
 # KV.ee Apartment Listings Scraper
 
-## Machine learmong model development
+## Machine learning model development
 https://github.com/RobinHenrik/RealEstatePricePredicing
 
 ## Overview
